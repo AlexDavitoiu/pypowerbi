@@ -6,7 +6,7 @@ setup(name='pypowerbi',
       url='http://github.com/cmberryau/pypowerbi',
       author='Chris Berry',
       author_email='chris@chrisberry.com.au',
-      license='MIT',
+      license='MIT'. ,
       packages=['pypowerbi'],
       install_requires=[
             'requests',
