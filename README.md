@@ -8,7 +8,7 @@ Python library for PowerBI. Loosely modelled after the C# PowerBI library to kee
 pip install pypowerbi
 ```
 
-## Examples
+## Example
 
 ### Posting a dataset
 
