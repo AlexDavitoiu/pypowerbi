@@ -16,7 +16,7 @@ import os
   "client_id": "<your client id>",
   "username": "<your username (email)>",
   "password": "<your password>"
- }
+ }. 
  -------------------------------------------------------------------------
 """
 
